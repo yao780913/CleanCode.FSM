@@ -21,6 +21,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\FSM.Transitions\FSM.Transitions.csproj" />
+<!--      <ProjectReference Include="..\FSM.StatePattern\FSM.StatePattern.csproj" />-->
     </ItemGroup>
 
 </Project>
