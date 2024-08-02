@@ -1,7 +1,5 @@
 ﻿using Shared;
 
-namespace Lab.FSM;
-
 public class Turnstile
 {
     public State state = State.Locked;
